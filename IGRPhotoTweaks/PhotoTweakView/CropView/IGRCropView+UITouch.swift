@@ -7,6 +7,7 @@
 //
 
 import Foundation
+import UIKit
 
 extension IGRCropView {
     override public func touchesBegan(_ touches: Set<UITouch>, with event: UIEvent?) {
